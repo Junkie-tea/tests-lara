@@ -1,0 +1,54 @@
+.proposals {
+    display: flex;
+    justify-content: space-around;
+
+
+}
+
+.proposal {
+    margin: 10px;
+    padding: 10px;
+    width: 200px;
+    height: 200px;
+
+    border-radius: 10px;
+
+    background-color: rgb(16, 104, 104);
+    color: white;
+}
+
+.proposal-accepted {
+    margin: 10px;
+    padding: 10px;
+    width: 200px;
+    height: 200px;
+
+    border-radius: 10px;
+
+    background-color: rgb(226, 78, 91);
+    color: white;
+}
+
+.create {
+    display: flex;
+    justify-content: center;
+}
+
+button {
+    background-color: rgb(10, 63, 63);
+    color: white;
+
+    padding: 10px;
+
+    border-radius: 10px;
+}
+
+input {
+    background-color: rgb(10, 63, 63);
+    color: white;
+
+    padding: 10px;
+
+    border-radius: 10px;
+}
+
